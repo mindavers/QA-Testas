@@ -72,7 +72,7 @@ public class QATestasTest {
         browser.findElement(By.xpath("//*[@id=\"body-section\"]/div[5]/div/div[2]/div[2]/div/div/div[6]/div/div[1]/div[3]/div/div/a")).click();
         Thread.sleep(5000);
 
-        browser.close();
+//        browser.close();
 
     }
 }
